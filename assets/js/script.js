@@ -59,19 +59,19 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Jigar Sable";
-            $("#favicon").attr("href", "assets/images/favicon.png");
+            document.title = "Portfolio | Maulana Jumantara";
+            $("#Pp").attr("href", "assets/images/Pp.png");
         }
         else {
             document.title = "Come Back To Portfolio";
-            $("#favicon").attr("href", "assets/images/favhand.png");
+            $("#Pp").attr("href", "assets/images/favhand.png");
         }
     });
 
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["frontend development", "backend development", "web designing", "android development", "web development"],
+    strings: ["IT Support", "IT Helpdesk", "IT Security", "Fitness Instructor", "HSE Specialist (AK3U Kemenaker RI)"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,

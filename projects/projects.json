@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Final Project (Thesis)",
+    "desc": "This project was developed using Python on Google Colab as part of my final thesis. The project aims to assist in identifying the freshness of beef using specific parameters. A trial video is included to demonstrate the results of identifying fresh meat, as well as other images that were still detected as 'spoiled' using the default settings. ",
+    "image": "Pp.png",
+    "category": "JavaScript,CSS and HTML",
+    "links": {
+      "view": "https://bit.ly/Maulana-Jumantara",
+      "code": "hhttps://github.com/MaulanaGans/desatest2.git"
+    }
+  },
+  {
+    "name": "Web Developer (Project-Based)",
+    "desc": "Developed interactive, user-friendly front-end websites for local businesses,Trained staff on web operation and maintenance and Ensured optimal website performance through regular updates. ",
+    "image": "notystackandroid.",
+    "category": "JavaScript,CSS and HTML",
+    "links": {
+      "view": "https://bit.ly/Maulana-Jumantara",
+      "code": "hhttps://github.com/MaulanaGans/desatest2.git"
+    }
+  },
+  {
+    "name": " IT Security (ISO 27001)",
+    "desc": "Assisted in managing documentation for ISO 27001 certification dan focusing on information security,Created change management forms and security checklists using the HUB assessment application",
+    "image": "sppuprepandroid.",
+    "category": "Documentation ISO 27001",
+    "links": {
+      "view": "https://bit.ly/Maulana-Jumantara",
+      "code": "https://github.com/jigar-sable/sppu-prep-android"
+    }
+  },
+  {
+    "name": "Front-End Developer (Project-Based)",
+    "desc": "Developed a front-end application to enhance customer experience and ollaborated with local businesses to digitize their operations.",
+    "image": "newsboxandroid",
+    "category": "Pycharm and Pyhton",
+    "links": {
+      "view": "https://bit.ly/Maulana-Jumantara",
+      "code": "https://github.com/jigar-sable/newsbox-android"
+    }
+  },
+  {
+    "name": "Industrial Work Practice (Network Engineering)",
+    "desc": "Assembled and installed computer networks, both wired and wireless and Conducted network security analysis and troubleshooting for system optimization.",
+    "image": "weatherlyandroid",
+    "category": "Networking",
+    "links": {
+      "view": "https://bit.ly/Maulana-Jumantara",
+      "code": "-"
+    }
+  }
+]
