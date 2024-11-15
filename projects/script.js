@@ -20,12 +20,12 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Projects | Portfolio Jigar Sable";
-            $("#favicon").attr("href", "/assets/images/favicon.png");
+            document.title = "Projects | Portfolio Maulana Jumantara";
+            $("#Pp").attr("href", "/assets/images/Pp.png");
         }
         else {
             document.title = "Come Back To Portfolio";
-            $("#favicon").attr("href", "/assets/images/favhand.png");
+            $("#Pp").attr("href", "/assets/images/favhand.png");
         }
     });
 
