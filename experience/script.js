@@ -66,10 +66,10 @@ document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
         document.title = "Experience | Portfolio Maulana Jumantara";
-        $("#favicon").attr("href","/assets/images/Pp.png");
+        $("#Pp").attr("href","/assets/images/Pp.png");
     }
     else {
         document.title = "Come Back To Portfolio";
-        $("#favicon").attr("href","/assets/images/favhand.png");
+        $("#Pp").attr("href","/assets/images/favhand.png");
     }
 });
