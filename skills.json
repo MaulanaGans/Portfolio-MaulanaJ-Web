@@ -48,12 +48,24 @@
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
     },
     {
+        "name": "Ms.Word",
+        "icon": "https://img.icons8.com/arcade/100/medical-insurance.png"
+    },  
+    {
+        "name": "Ms.Excel",
+        "icon": "https://img.icons8.com/doodle/100/microsoft-excel-2019.png"
+    },  
+    {
+        "name": "Software Tableau",
+        "icon": "https://img.icons8.com/color/100/tableau-software.png"
+    }, 
+    {
         "name": "HSE",
         "icon": "https://img.icons8.com/arcade/100/medical-insurance.png"
     },    
     {
-        "name": "MongoDB",
-        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+        "name": "Fitness Instructor",
+        "icon": "https://img.icons8.com/external-microdots-premium-microdot-graphic/100/external-coach-sport-fitness-vol4-microdots-premium-microdot-graphic.png"
     }
 
 ]

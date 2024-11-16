@@ -36,12 +36,21 @@
     }
   },
   {
+    "name": "College project",
+    "desc": "Developed a program to detect the freshness of eyelets through image analysis. Built using Python and OpenCV, this project was completed as part of a digital image processing course.",
+    "category": "Pycharm,OpenCV and Pyhton",
+    "links": {
+      "view": "https://drive.google.com/file/d/1ZmdLfWOEbUTnBiIQVs-dHJ36R0XYwcKe/view?usp=sharing",
+      "code": "https://github.com/MaulanaGans/"
+    }
+  },
+  {
     "name": "Industrial Work Practice (Network Engineering)",
     "desc": "Assembled and installed computer networks, both wired and wireless and Conducted network security analysis and troubleshooting for system optimization.",
     "category": "Networking",
     "links": {
       "view": "https://bit.ly/Maulana-Jumantara",
       "code": "-"
-    }
+  }
   }
 ]
