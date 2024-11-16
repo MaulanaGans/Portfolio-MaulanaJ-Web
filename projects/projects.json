@@ -22,7 +22,7 @@
     "desc": "Assisted in managing documentation for ISO 27001 certification dan focusing on information security,Created change management forms and security checklists using the HUB assessment application",
     "category": "Documentation ISO 27001",
     "links": {
-      "view": "https://drive.google.com/file/d/12XioJcjhLl9DXVZYDhnAneP-AKZTADGs/view?usp=sharing",
+      "view": "https://drive.google.com/file/d/1Vvi71D6M7hpRK3LT54m8XOJXejKzdSzL/view?usp=sharing",
       "code": "-"
     }
   },
@@ -31,18 +31,10 @@
     "desc": "Developed a front-end application to enhance customer experience and ollaborated with local businesses to digitize their operations.",
     "category": "Pycharm and Pyhton",
     "links": {
-      "view": "https://drive.google.com/file/d/1Zka_m0zC1l-u1BpAstRPpbJ0VBl6k9br/view?usp=sharing",
+      "view": "https://drive.google.com/file/d/1jQs6EnnlSRD_cyQPFwYgrt-9O9td7kNo/view?usp=sharing",
       "code": "https://github.com/MaulanaGans/"
     }
   },
-  {
-    "name": "College project",
-    "desc": "Developed a program to detect the freshness of eyelets through image analysis. Built using Python and OpenCV, this project was completed as part of a digital image processing course.",
-    "category": "Pycharm,OpenCV and Pyhton",
-    "links": {
-      "view": "https://drive.google.com/file/d/1ZmdLfWOEbUTnBiIQVs-dHJ36R0XYwcKe/view?usp=sharing",
-      "code": "https://github.com/MaulanaGans/"
-    }
   {
     "name": "Industrial Work Practice (Network Engineering)",
     "desc": "Assembled and installed computer networks, both wired and wireless and Conducted network security analysis and troubleshooting for system optimization.",
@@ -51,5 +43,5 @@
       "view": "https://bit.ly/Maulana-Jumantara",
       "code": "-"
     }
-  },
+  }
 ]
