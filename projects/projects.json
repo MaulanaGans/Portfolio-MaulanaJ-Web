@@ -3,6 +3,7 @@
     "name": "Final Project (Thesis)",
     "desc": "This project, built in Python on Google Colab for my thesis, identifies beef freshness using specific parameters, with a trial video showing fresh and 'spoiled' meat detections. ",
     "category": "JavaScript,CSS and HTML",
+    "image": "/assets/images/projects/Pp.png",
     "links": {
       "view": "https://drive.google.com/file/d/1Cv5vslEnxI_hFH51KHMsdLca5uGkQ1Zo/view?usp=sharing",
       "code": "https://github.com/MaulanaGans/TA-Identifikasidagingayam.git"
